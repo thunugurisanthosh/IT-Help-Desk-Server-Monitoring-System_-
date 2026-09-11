@@ -1,4 +1,4 @@
-#aws-linux-server-monitoring
+#IT Help Desk & Server Monitoring System
 
 ## Overview
 Built an AWS-based Linux server monitoring and IT help-desk lab using Ubuntu, Apache, Prometheus, Grafana, and Node Exporter.
