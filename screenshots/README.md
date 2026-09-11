@@ -1,11 +1,10 @@
+
 # Screenshots
 
-Add the following screenshots after completing the lab:
+<img width="1920" height="1080" alt="Screenshot (123)" src="https://github.com/user-attachments/assets/caf8b839-913c-4ffc-80e3-cf5bcad3cc39" />
+<img width="1920" height="1080" alt="Screenshot (122)" src="https://github.com/user-attachments/assets/89753705-8551-4eb4-81a7-9baa07dcfff0" />
+<img width="1920" height="1080" alt="Screenshot (121)" src="https://github.com/user-attachments/assets/9a99a015-6f45-4bf7-92a1-2871a42a07cf" />
+<img width="1920" height="1080" alt="Screenshot (119)" src="https://github.com/user-attachments/assets/4f89472c-eee5-41c7-aa7f-d16c1a128e8e" />
+<img width="1920" height="1080" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/6383d674-0eea-4337-9878-818f0891022d" />
 
-1. `01-ec2.png` — AWS EC2 instances showing LINUX01 and MONITOR01
-2. `02-apache.png` — Apache default/custom page from LINUX01
-3. `03-prometheus.png` — Prometheus targets page showing LINUX01 UP
-4. `04-grafana.png` — Grafana dashboard with server metrics
-5. `05-incident.png` — Incident documentation or terminal evidence of troubleshooting
 
-Do not upload passwords, private keys, access tokens, or other credentials.
