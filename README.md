@@ -1,4 +1,4 @@
-# AWS Cloud Server Monitoring & Help Desk Incident Management
+#aws-linux-server-monitoring
 
 ## Overview
 Built an AWS-based Linux server monitoring and IT help-desk lab using Ubuntu, Apache, Prometheus, Grafana, and Node Exporter.
