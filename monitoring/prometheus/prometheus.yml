@@ -1,0 +1,10 @@
+global:
+  scrape_interval: 15s
+  evaluation_interval: 15s
+
+scrape_configs:
+  - job_name: 'linux01'
+    static_configs:
+      - targets: ['LINUX01_PRIVATE_IP:9100']
+        labels:
+          server: 'LINUX01'
